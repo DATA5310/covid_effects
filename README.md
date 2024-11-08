@@ -19,5 +19,25 @@ Read the above as: The 'Cancer Statistics' dataset was published in 2024 and con
 
 ## Quick Start
 
+1. Make sure Anaconda / Miniconda is installed.
+- **Mac**:
+    ```
+    brew install --cask miniconda
+    ```
+
+2. Then create a new environment:
+
+```
+conda create -n covid_effects -c conda-forge python=3.11 numpy pandas gitpython ipykernel chardet matplotlib seaborn
+```
+
+3. Activate environment:
+
+```
+conda activate covid_effects
+```
+
+4. Now you should be able to run any notebooks in this repo.
+
 ## Conclusion
 
