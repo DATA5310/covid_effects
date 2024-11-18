@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brandId:tvs.sbd.7000</key>
+	<dict>
+		<key>currentData</key>
+		<dict>
+			<key>dateFirstShown</key>
+			<real>1721455214</real>
+			<key>shownCount</key>
+			<real>1</real>
+		</dict>
+		<key>policy</key>
+		<dict>
+			<key>intervalTimeInSeconds</key>
+			<real>86400</real>
+			<key>max</key>
+			<real>3</real>
+		</dict>
+	</dict>
+	<key>contentId:umc.cse.7k1y44exh9kcodoiq914jjo3::playableType:vod::recapType:condensed</key>
+	<dict>
+		<key>currentData</key>
+		<dict>
+			<key>dateFirstShown</key>
+			<real>1721455214</real>
+			<key>shownCount</key>
+			<real>1</real>
+		</dict>
+		<key>policy</key>
+		<dict>
+			<key>intervalTimeInSeconds</key>
+			<real>86400</real>
+			<key>max</key>
+			<real>1</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,2 +1,4 @@
 .DS_Store
 .ipynb_checkpoints
+notebooks/Testing notebooks/filtered_mortality_data.csv
+notebooks/Testing notebooks/filtered_heart_cardiovascular_covid_data.csv
