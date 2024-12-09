@@ -30,7 +30,7 @@ Read the above as: The 'Cancer Statistics' dataset was published in 2024 and con
 2. Then create a new environment:
 
 ```
-conda create -n covid_effects -c conda-forge python=3.11 numpy pandas gitpython ipykernel chardet matplotlib seaborn scikit-learn darts prophet plotly
+conda create -n covid_effects -c conda-forge python=3.11 numpy pandas gitpython ipykernel chardet matplotlib seaborn scikit-learn darts prophet plotly ipywidgets
 ```
 
 3. Activate environment:
