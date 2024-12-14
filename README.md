@@ -16,6 +16,7 @@ Briefly, compare the changes in incidence/prevalence of various diseases and oth
 | Underlying Cause of Deaths | CDC | 2022 | 2024 | https://wonder.cdc.gov/controller/datarequest/D158 | Dataset description [here](https://wonder.cdc.gov/wonder/help/ucd-expanded.html#). List of ICD-10 codes [here](https://www.icd10data.com/ICD10CM/Codes) |
 | Chronic Health Indicators | BRFSS | 2023 | 2024 | https://data.cdc.gov/Behavioral-Risk-Factors/BRFSS-Table-of-Chronic-Health-Indicators/u7k3-tu8b | This is the source for some of the data in CDI. This has 2 more years of data. |
 | US: Daily COVID-19 vaccine doses administered | Our World in Data / CDC | 2023 | 2024 | https://ourworldindata.org/grapher/us-daily-covid-vaccine-doses-administered?tab=table&time=2021-06-05..latest#sources-and-processing | |
+| Deaths involving Coronavirus Disease | U.S. DHHS | 2023 | 2023 | https://catalog.data.gov/dataset/conditions-contributing-to-deaths-involving-coronavirus-disease-2019-covid-19-by-age-group | |
 
 Read the above as: The 'Cancer Statistics' dataset was published in 2024 and contains data from 2021 and earlier.
 
