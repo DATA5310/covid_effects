@@ -40,8 +40,19 @@ conda create -n covid_effects -c conda-forge python=3.11 numpy pandas gitpython 
 conda activate covid_effects
 ```
 
-4. Now you should be able to run any notebooks in this repo.
+4. To compile the presentation notebook:
 
-## Conclusion
+```
+jupyter dejavu 2.presentation.ipynb --to slides --SlidesExporter.reveal_theme=simple
+```
 
+In the browser, make sure to add the params to configure reveal.js -- mainly the auto-animation speed `...2.presentation.slides.html?autoAnimateDuration=0.8`
+
+While developing, this is the one-liner used to make it easier
+
+```
+jupyter dejavu 2.presentation.ipynb --to slides --SlidesExporter.reveal_theme=simple && osascript -e 'tell application "Safari" to open location "file://'$(pwd)'/2.presentation.slides.html?autoAnimateDuration=0.8&scrollProgress:false"'
+```
+
+5. Now you should be able to run any notebooks in this repo.
 
