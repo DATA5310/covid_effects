@@ -4,6 +4,10 @@
 
 Briefly, compare the changes in incidence/prevalence of various diseases and other health metrics in the United States pre-covid and post-covid. Pre-covid is defined as pre-2020, as the first confirmed case of covid-19 in the U.S. was reported by the CDC on [January 20, 2020](https://www.cdc.gov/museum/timeline/covid19.html).
 
+## A Note on Large File Storage
+
+Previously, all of these datasets were stored on GitHub LFS which costs money. The files have just been moved to Devin's personal git server, which runs most of the time but not all the time. If you tried to clone this repo and face issues with cloning the datasets, contact Devin at devin@devinl.im.
+
 ## Data Sources
 
 | Description | Source | Data Year | Publication Year | Link | Additional Comments |
